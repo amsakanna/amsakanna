@@ -1,4 +1,4 @@
-# Flutter developer
+# Senior Mobile Architect
 
 ### Expertise
 - `Flutter` - `Dart` - `Redux` - `EventBus` - `Angular` - `TypeScript` - `HTML` - `CSS` - `Javascript`
